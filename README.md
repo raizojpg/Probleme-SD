@@ -16,4 +16,4 @@ Stramosi 		            (100p)	: https://www.infoarena.ro/job_detail/3228767?acti
 Consecutive1 		        (100p)	: https://www.pbinfo.ro/detalii-evaluare/50975415 <br/>
 Plantatie 		          (100p)	: https://infoarena.ro/job_detail/3229252?action=view-source <br/>
 Euclid 			            (100p)	: https://www.infoarena.ro/job_detail/3229878?action=view-source <br/>
-H. for-for-for-for 	     (60p)	: https://codeforces.com/gym/103999/submission/261574295 <br/>
+H. for-for-for-for 	     (40p)	: https://codeforces.com/gym/103999/submission/261574295 <br/>
